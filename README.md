@@ -12,7 +12,7 @@ Web Scrapping in python using `requests` and `bs4`.
 </p>
 
 <p align="center">
-<img src="https://github.com/CrispenGari/RE-python/blob/main/cover.jfif" alt="cover"/>
+<img src="https://github.com/CrispenGari/web-scrapping-python/blob/main/cover.jfif" alt="cover"/>
 </p>
 
 ### Docs References
