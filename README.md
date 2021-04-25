@@ -9,6 +9,7 @@ Web Scrapping in python using `requests` and `bs4`.
 <img src="https://img.shields.io/static/v1?label=package&message=json&color=orange"/>
 <img src="https://img.shields.io/static/v1?label=package&message=bs4-BeautifulSoup&color=yellow"/>
 <img src="https://img.shields.io/static/v1?label=package&message=pandas&color=blue"/>
+<img src="https://img.shields.io/static/v1?label=package&message=csv&color=brown"/>
 </p>
 
 <p align="center">
