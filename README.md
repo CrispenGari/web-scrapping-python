@@ -1,6 +1,6 @@
 ## Web Scrapping - Python
 
-Web Scrapping in python using `requests` and `bs4`.
+This repository contains a lot of examples on data gathering from websites using different technologies in python.
 
 <p align="center">
 <img src="https://img.shields.io/static/v1?label=language&message=python&color=green"/>
@@ -10,20 +10,10 @@ Web Scrapping in python using `requests` and `bs4`.
 <img src="https://img.shields.io/static/v1?label=package&message=bs4-BeautifulSoup&color=yellow"/>
 <img src="https://img.shields.io/static/v1?label=package&message=pandas&color=blue"/>
 <img src="https://img.shields.io/static/v1?label=package&message=csv&color=brown"/>
+<img src="https://img.shields.io/static/v1?label=package&message=selenium&color=green"/>
 </p>
 
-<p align="center">
-<img src="https://github.com/CrispenGari/web-scrapping-python/blob/main/cover.jfif" alt="cover"/>
-</p>
-
-### Installation
-
-The installation of requests and bs4 are as follows:
-
-```shell
-pip install requests
-pip install beautifulsoup4
-```
+<img src="/cover.jfif" alt="cover" width="100%"/>
 
 ### Code
 
