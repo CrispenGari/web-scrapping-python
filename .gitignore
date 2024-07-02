@@ -1,0 +1,14 @@
+dataset/
+
+# Ignore image files
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tiff
+*.svg
+*.webp
+# compressed files
+*.zip
+*.rar
